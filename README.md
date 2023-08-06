@@ -7,6 +7,14 @@
 
 </div>
 
+## Group9 
+1. Prakhar Patel	101413720
+2. Nihitha Patcha	101446620
+3. Archana Wasti Dahal	101465212
+4. Vijay Karthik Bethapudi	101442692
+
+[Repoort link](https://prakharninja0927.github.io/group9-final-project/)
+
 ## Overview
 
 Welcome to the Sports Image Classification Project, a deep learning endeavor aimed at accurately categorizing sports images using PyTorch and pre-trained models. This repository showcases the implementation and evaluation of ResNet50, ResNet101, ResNet152, and YOLO8x.pt models. The project meticulously measures training time, loss, and validation, training, and testing accuracies. The dataset is sourced from Kaggle and loaded using the Kaggle Python library. Additionally, the trained models are persistently saved for future applications.
