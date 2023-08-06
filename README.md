@@ -51,6 +51,11 @@ You can also download dataset and make dataset ready by applying following proce
             !kaggle datasets download -d gpiosenka/sports-classification
     ```
 
+## install requirements.txt
+
+```
+```
+
 ## Models
 
 The following pre-trained models are harnessed for our sports image classification project:
@@ -69,4 +74,7 @@ Our models undergo rigorous training using PyTorch and the Adam optimizer. Our f
 ## Evaluation
 
 To gauge model performance, we subject the trained models to a comprehensive evaluation on our validation dataset. The evaluation encompasses validation accuracy and loss metrics, revealing each model's aptitude for generalization.
+
+
+
 
