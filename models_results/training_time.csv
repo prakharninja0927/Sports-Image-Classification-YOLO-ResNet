@@ -1,4 +1,0 @@
-Model,Testing Accuracy,Training_Time(Minutes)
-ResNet50,95.6,37.3207
-ResNet152,95.2,65.0694
-ResNet101,94,58.9779
